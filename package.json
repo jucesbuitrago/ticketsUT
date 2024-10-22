@@ -5,5 +5,5 @@
   "scripts": {
     "deploy": "gh-pages -d ."
   },
-  "homepage": "https://ticketsUT.github.io"
+  "homepage": "https://ticketsUT"
 }
